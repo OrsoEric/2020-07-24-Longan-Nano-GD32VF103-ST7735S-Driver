@@ -51,7 +51,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 	//Longan Nano Chrono functions
 	#include "longan_nano_chrono.hpp"
 #endif
-
+ 
 namespace Longan_nano
 {
 
